@@ -1,3 +1,6 @@
+https://nextjs-dashboard-git-main-vishals-projects-54e39f64.vercel.app/login
+Username: user@nextmail.com
+Password: 123456
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
